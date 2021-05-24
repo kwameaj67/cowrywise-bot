@@ -1,4 +1,3 @@
-
 const data: {
     url: String
     email: String,
